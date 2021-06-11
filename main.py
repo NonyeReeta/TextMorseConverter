@@ -22,4 +22,5 @@ while translate:
     if translate_again == "yes":
         translate = True
     else:
+        print("Thank you for using my command line Text-Morse Converter")
         translate = False
